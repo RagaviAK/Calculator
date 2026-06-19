@@ -1,16 +1,17 @@
-# React + Vite
+<img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/dc8b3c95-f14a-4121-9261-9c36e5f27b94" />React Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple calculator built with React that supports basic arithmetic operations and stores the current calculation in local storage for persistence.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Basic arithmetic operations (+, -, *, /)
+Clear (AC) and Delete (DE) functionality
+Persistent data using Local Storage
+Responsive and user-friendly interface
 
-## React Compiler
+Tech Stack: React, JavaScript, CSS, HTML.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+<img width="1907" height="958" alt="image" src="https://github.com/user-attachments/assets/36052be4-e973-42c9-b29b-cb0a0f0df4a3" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1907" height="958" alt="image" src="https://github.com/user-attachments/assets/e3ae000e-e28f-429c-95d3-8c8e4e10dd87" />
